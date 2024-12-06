@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "26484122",
+      "name": "抖音",
+      "font_class": "douyin",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "39051398",
+      "name": "QQ音乐-copy-copy",
+      "font_class": "QQyinle-copy",
+      "unicode": "e506",
+      "unicode_decimal": 58630
+    }
+  ]
+}
